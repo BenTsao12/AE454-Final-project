@@ -6,5 +6,5 @@
 ##### 2. Rigid Spacecraft with a Symmetric Rotor
 ##### 3. The pendulum on a Rotor Arm
 
-##### Example 1 and 2 are from \enquote{Stabilization of Mechanical Systems Using Controlled Lagrangians} by Anthony M. Bloch,  Naomi Ehrich Leonard, and Jerrold E. Marsden. (Primary paper)
-##### Example 3 is from \enquote{Stabilization of the Pendulum on a Rotor Arm by the Method of Controlled Lagrangians} by Anthony M. Bloch,  Naomi Ehrich Leonard, and Jerrold E. Marsden. 
+##### Example 1 and 2 are from "Stabilization of Mechanical Systems Using Controlled Lagrangians" by Anthony M. Bloch,  Naomi Ehrich Leonard, and Jerrold E. Marsden. (Primary paper)
+##### Example 3 is from "Stabilization of the Pendulum on a Rotor Arm by the Method of Controlled Lagrangians" by Anthony M. Bloch,  Naomi Ehrich Leonard, and Jerrold E. Marsden. 
